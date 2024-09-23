@@ -30,4 +30,8 @@ public class Puzzle
         // put your code here
         return x + y;
     }
+    
+    public void makeVisible() {
+        System.out.println("makeVisible");
+    }
 }
